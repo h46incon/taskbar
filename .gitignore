@@ -6,3 +6,6 @@
 *.bsc
 *.sbr
 *.aps
+*.sdf
+*.opensdf
+*.vcxproj.user
